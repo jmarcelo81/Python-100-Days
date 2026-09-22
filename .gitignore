@@ -1,0 +1,8 @@
+__pycache__
+env
+.vscode
+.env
+Procfile
+requirements.txt
+token.json
+.locales
